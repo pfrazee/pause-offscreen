@@ -1,0 +1,24 @@
+{
+  "name": "pause-offscreen",
+  "version": "1.0.0",
+  "description": "On web pages, hide gifs and pause videos when they're scrolled offscreen, to save CPU cycles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfraze/pause-offscreen.git"
+  },
+  "keywords": [
+    "gif",
+    "video",
+    "pause"
+  ],
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfraze/pause-offscreen/issues"
+  },
+  "homepage": "https://github.com/pfraze/pause-offscreen#readme"
+}
